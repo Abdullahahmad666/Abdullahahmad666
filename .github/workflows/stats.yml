@@ -1,14 +1,18 @@
 name: Generate stats card
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # every 12 hours (at minute 0 of 00:00 and 12:00 UTC)
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
     - main
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -24,7 +28,9 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Needs a Personal Access Token (scopes: repo, read:user) saved as the PROFILE_TOKEN secret.
+          # The default GITHUB_TOKEN cannot read user-level data (followers, orgs, private contributions).
+          token: ${{ secrets.PROFILE_TOKEN }}
 
 
       - name: push stats.svg to the output branch
