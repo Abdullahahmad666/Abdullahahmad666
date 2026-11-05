@@ -1,129 +1,129 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="130" alt="Coding animation" />
 
-###
+  <h1>Hey there, I'm Abdullah Ahmad 👋</h1>
 
-<h1 data-importer="text" align="center">Hey there 👋</h1>
-
-###
-
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-
-###
-
-<p data-importer="text" align="left">I'm Abdullah Ahmad from Lahore, Pakistan.<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning New Skills<br>- ⚡ In my free time I try to figure out new paths</p>
-
-###
-
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/abdullah-ahmad-a00913259" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF79C6&center=true&vCenter=true&width=520&lines=Software+Engineer+from+Lahore%2C+Pakistan;Building+with+TypeScript%2C+React+%26+Node.js;Always+learning+something+new" alt="Typing intro" />
   </a>
-  <a href="https://www.instagram.com/it.nomads" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+  <p>
+    <a href="https://www.linkedin.com/in/abdullah-ahmad-a00913259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/it.nomads" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=abdullahahmad666.abdullahahmad666" alt="Profile views" />
+  </p>
 </div>
 
-###
+---
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=abdullahahmad666.abdullahahmad666&"  />
+## 👨‍💻 About Me
+
+- 🔭 Software Engineer based in **Lahore, Pakistan**
+- 🌱 Currently picking up new skills and sharpening the ones I have
+- 💡 Enjoy working across the stack, from UI to databases to deployment
+- ⚡ In my free time I explore new paths and side projects
+- 📫 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/abdullah-ahmad-a00913259)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="36" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />&nbsp;
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="36" alt="C" title="C" />&nbsp;
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="36" alt="C++" title="C++" />&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="36" alt="HTML5" title="HTML5" />&nbsp;
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="36" alt="CSS" title="CSS" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring" title="Spring" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36" alt="Firebase" title="Firebase" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="36" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="36" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite" title="SQLite" />
+</p>
+
+**DevOps, Cloud & Servers**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes" title="Kubernetes" />&nbsp;
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="36" alt="Cloudflare" title="Cloudflare" />&nbsp;
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="36" alt="Netlify" title="Netlify" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" title="Nginx" />&nbsp;
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="36" alt="Apache" title="Apache" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="36" alt="Tomcat" title="Tomcat" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="Git" title="Git" />&nbsp;
+  <img src="https://cdn.simpleicons.org/github/808080" height="36" alt="GitHub" title="GitHub" />&nbsp;
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="36" alt="Bitbucket" title="Bitbucket" />&nbsp;
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="36" alt="Jira" title="Jira" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm" title="npm" />&nbsp;
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="36" alt="ESLint" title="ESLint" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code" title="VS Code" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="36" alt="PuTTY" title="PuTTY" />
+</p>
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/stats-output/stats.svg" height="180" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/languages-output/languages.svg" height="180" alt="Most used languages" />
 </div>
 
-###
+<br />
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=abdullahahmad666&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdullahahmad666&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="GitHub streak" />
 </div>
 
-###
+<br />
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/trophy-output/trophy.svg" alt="GitHub trophies" />
 </div>
 
-###
+<br />
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/activity-graph-output/activity-graph.svg" width="100%" alt="Contribution activity graph" />
+</div>
 
-###
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/snake-output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/snake-output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/abdullahahmad666/abdullahahmad666/snake-output/snake-dark.svg" alt="Snake eating my contributions" />
+  </picture>
+</div>
+
+<div align="center">
+  <sub>Cards refresh automatically every 12 hours via GitHub Actions.</sub>
+</div>
